@@ -1947,6 +1947,18 @@
 	<publication>
 		<id>152</id>
 		<type>Publication</type>
+		<year>2018</year>
+		<label>Skills heterogeneity and immigrant-native wage gap in the European countries</label>
+		<url>http://iises.net/international-journal-of-economic-sciences/publication-detail-6942?download=7</url>
+		<authors>
+			<author>Maryna Tverdostup</author>
+		</authors>
+			<author>Tiiu Paas</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>153</id>
+		<type>Publication</type>
 		<year>2015</year>
 		<label>Information and the gaining of understanding</label>
 		<url>http://jis.sagepub.com/content/early/2015/12/14/0165551515621691</url>
@@ -1957,25 +1969,13 @@
 		</authors>
 	</publication>
 	<publication>
-		<id>153</id>
+		<id>154</id>
 		<type>Publication</type>
 		<year>2008</year>
 		<label>Attitudes to taboo phenomenon among YorubaûEnglish bilinguals</label>
 		<url>http://ejournals.ebsco.com/direct.asp?ArticleID=470BBC6339461BC5E125</url>
 		<authors>
 			<author>Dele Adeyanju</author>
-		</authors>
-	</publication>
-	<publication>
-		<id>154</id>
-		<type>Publication</type>
-		<year>2018</year>
-		<label>Skills heterogeneity and immigrant-native wage gap in the European countries</label>
-		<url>http://iises.net/international-journal-of-economic-sciences/publication-detail-6942?download=7</url>
-		<authors>
-			<author>Maryna Tverdostup</author>
-		</authors>
-			<author>Tiiu Paas</author>
 		</authors>
 	</publication>
 	<publication>
@@ -2953,5 +2953,3 @@ directions</label>
 		</authors>
 	</publication>
 </publications>
-<\publications>
-
