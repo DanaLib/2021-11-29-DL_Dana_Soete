@@ -1,0 +1,2955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publications>
+	<publication>
+		<id>1</id>
+		<type>Publication</type>
+		<year>2015</year>
+		<label>Data literacy for researchers and data librarians</label>
+		<url>http://lis.sagepub.com/content/early/2015/11/25/0961000615616450.abstract</url>
+		<authors>
+			<author>Tibor Koltay</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>2</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<label>What is critical big data literacy and how can it be implemented?</label>
+		<url>https://policyreview.info/articles/analysis/what-critical-big-data-literacy-and-how-can-it-be-implemented</url>
+		<authors>
+			<author>Ina Sander</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>3</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<label>How many ways can we teach data literacy?</label>
+		<url>https://www.iassistquarterly.com/index.php/iassist/article/view/963</url>
+		<authors>
+			<author>Yun Dai</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>4</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>Cambridge University Press</publisher>
+		<label>Teaching Open Science: Published Data and Digital Literacy in Archaeology Classrooms</label>
+		<url>https://www.cambridge.org/core/article/teaching-open-science-published-data-and-digital-literacy-in-archaeology-classrooms/8404682E019727CCF43416B81E4E9092</url>
+		<authors>
+			<author>Katherine Cook</author>
+		</authors>
+			<author>Canan Çakirlar</author>
+		</authors>
+			<author>Timothy Goddard</author>
+		</authors>
+			<author>Robert Carl DeMuth</author>
+		</authors>
+			<author>Joshua Wells</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>5</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<label>Strategies and Best Practices for Data Literacy Education</label>
+		<url>https://www.stifterverband.org/download/file/fid/6040</url>
+		<authors>
+			<author>Chantel Ridsdale</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>6</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>Red de Humanidades Digitales A. C.</publisher>
+		<label>Endangered Data Week: Digital Humanities and Civic Data Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/conf/dihu/dh2018.html#Locke18a</url>
+		<authors>
+			<author>Brandon T. Locke</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>7</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Data literacy for business librarians</label>
+		<url>http://ticker.mcgill.ca/article/view/17</url>
+		<authors>
+			<author>Meryl Brodsky</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>8</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>Red de Humanidades Digitales A. C.</publisher>
+		<label>Critical Data Literacy in the Humanities Classroom.</label>
+		<url>http://dblp.uni-trier.de/db/conf/dihu/dh2018.html#Locke18</url>
+		<authors>
+			<author>Brandon T. Locke</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>9</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<label>Data literacy for libraries : a local perspective on Library Carpentry</label>
+		<url>https://edoc.hu-berlin.de/bitstream/handle/18452/22688/AR_3367_Seidlmayer%20et%20al_Preprint_BFP_2020.pdf?sequence=1</url>
+		<authors>
+			<author>Eva Seidlmayer</author>
+		</authors>
+			<author>Rabea Müller</author>
+		</authors>
+			<author>Konrad U Förstner</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>10</id>
+		<type>Publication</type>
+		<year>2004</year>
+		<label>Information literacy, statistical literacy, and data literacy</label>
+		<url></url>
+		<authors>
+			<author>Milo Schield</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>11</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<publisher>ACM</publisher>
+		<label>Data Visualization Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ht/ht2016.html#Borner16</url>
+		<authors>
+			<author>Katy Börner</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>12</id>
+		<type>Publication</type>
+		<year>2015</year>
+		<label>Investigating aspects of data visualization literacy using 20 information visualizations and 273 science museum visitors</label>
+		<url>http://ivi.sagepub.com/content/early/2015/07/31/1473871615594652.abstract</url>
+		<authors>
+			<author>Katy Börner</author>
+		</authors>
+			<author>Adam Maltese</author>
+		</authors>
+			<author>Russell Nelson Balliet</author>
+		</authors>
+			<author>Joe Heimlich</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>13</id>
+		<type>Publication</type>
+		<year>2014</year>
+		<label>Network analysis literacy, data analysis literacy, and socioinformatics.</label>
+		<url>http://dblp.uni-trier.de/db/journals/it/it56.html#Zweig14</url>
+		<authors>
+			<author>Katharina Anna Zweig</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>14</id>
+		<type>Publication</type>
+		<year>2010</year>
+		<publisher>Springer</publisher>
+		<label>Literacy and Data Modeling.</label>
+		<url>http://dblp.uni-trier.de/db/conf/otm/otm2010-w.html#McFadyenB10</url>
+		<authors>
+			<author>Ron McFadyen</author>
+		</authors>
+			<author>Susan Birdwise</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>15</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<publisher>Elsevier</publisher>
+		<label>Towards Data Science Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/conf/iccS/iccS2017.html#DichevD17</url>
+		<authors>
+			<author>Christo Dichev</author>
+		</authors>
+			<author>Darina Dicheva</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>16</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<label>Digital Data Literacy in an Economic World: Geo-Spatial Data Literacy Aspects.</label>
+		<url>http://dblp.uni-trier.de/db/journals/ijgi/ijgi9.html#Jurgens20</url>
+		<authors>
+			<author>Carsten Jürgens</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>17</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Data literacy conceptions, community capabilities.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jci/jci12.html#Matthews16</url>
+		<authors>
+			<author>Paul Matthews</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>18</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<label>Ein Framework für Data Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/journals/astawsa/astawsa13.html#Schuller19</url>
+		<authors>
+			<author>Katharina Schüller</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>19</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<publisher>SCITEPRESS</publisher>
+		<label>Next Step: Data Literacy Measurement.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ic3k/kmis2020.html#Smolnikova20</url>
+		<authors>
+			<author>Marketa Smolnikova</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>20</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<publisher>ACM</publisher>
+		<label>Data literacy for learning analytics.</label>
+		<url>http://dblp.uni-trier.de/db/conf/lak/lak2016.html#WolffMZHK16</url>
+		<authors>
+			<author>Annika Wolff</author>
+		</authors>
+			<author>John Moore</author>
+		</authors>
+			<author>Zdenek Zdráhal</author>
+		</authors>
+			<author>Martin Hlosta</author>
+		</authors>
+			<author>Jakub Kuzilek</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>21</id>
+		<type>Publication</type>
+		<year>2003</year>
+		<publisher>IASSIST</publisher>
+		<label>Data & Statistical Literacy for Librarians.</label>
+		<url>http://dblp.uni-trier.de/db/conf/iassist/iassist2003.html#Gray03</url>
+		<authors>
+			<author>Ann Gray</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>22</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<label>Data literacy for researchers and data librarians.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jolis/jolis49.html#Koltay17</url>
+		<authors>
+			<author>Tibor Koltay</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>23</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<label>Zivilstatistik: Konzept einer neuen Perspektive auf Data Literacy und Statistical Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/journals/astawsa/astawsa13.html#EngelBFPSM19</url>
+		<authors>
+			<author>Joachim Engel</author>
+		</authors>
+			<author>Rolf Biehler</author>
+		</authors>
+			<author>Daniel Frischemeier</author>
+		</authors>
+			<author>Susanne Podworny</author>
+		</authors>
+			<author>Achim Schiller</author>
+		</authors>
+			<author>Laura Martignon</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>24</id>
+		<type>Publication</type>
+		<year>2007</year>
+		<publisher>IASSIST</publisher>
+		<label>The Importance of Data Visualization in Data Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/conf/iassist/iassist2007.html#Stamatel07</url>
+		<authors>
+			<author>Janet P. Stamatel</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>25</id>
+		<type>Publication</type>
+		<year>2014</year>
+		<publisher>Springer</publisher>
+		<label>Linked Open Data Literacy for Librarians.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ecil/ecil2014.html#HugiS14</url>
+		<authors>
+			<author>Jasmin Hügi</author>
+		</authors>
+			<author>René Schneider</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>26</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Some Key Challenges for Data Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jci/jci12.html#FrankW16a</url>
+		<authors>
+			<author>Mark Frank</author>
+		</authors>
+			<author>Johanna Walker</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>27</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<publisher>IEEE</publisher>
+		<label>VIS Keynote Address: Data Visualization Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ieeevast/ieeevast2019.html#Borner19</url>
+		<authors>
+			<author>Katy Börner</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>28</id>
+		<type>Publication</type>
+		<year>1999</year>
+		<label>Optimum data objects for technical literacy.</label>
+		<url>http://dblp.uni-trier.de/db/journals/ets/ets2.html#Lowry99</url>
+		<authors>
+			<author>Edward S. Lowry</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>29</id>
+		<type>Publication</type>
+		<year>2004</year>
+		<publisher>IASSIST</publisher>
+		<label>Data Librarians/Archivists Should Teach Statistical Literacy as Part of Information Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/conf/iassist/iassist2004.html#Schield04</url>
+		<authors>
+			<author>Milo Schield</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>30</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Data Murals: Using the Arts to Build Data Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jci/jci12.html#BhargavaKBCD16</url>
+		<authors>
+			<author>Rahul Bhargava</author>
+		</authors>
+			<author>Ricardo Kadouaki</author>
+		</authors>
+			<author>Emily Bhargava</author>
+		</authors>
+			<author>Guilherme Castro</author>
+		</authors>
+			<author>Catherine D'Ignazio</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>31</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<label>Data Literacy: Developing Skills on Exploring Big Data Applications.</label>
+		<url>http://dblp.uni-trier.de/db/journals/ijdldc/ijdldc8.html#ChristozovR17</url>
+		<authors>
+			<author>Dimitar Christozov</author>
+		</authors>
+			<author>Katia Rasheva-Yordanova</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>32</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<publisher>ACM</publisher>
+		<label>Community Indicator Data Dashboards as Infrastructures for Data Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ACMdis/ACMdis2019c.html#Peer19</url>
+		<authors>
+			<author>Firaz Peer</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>33</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<label>Cartographic Map Abstraction Using R Programming (Literacy Rate HDI and Poverty Data Interpolation of Nepal)</label>
+		<url>https://journals.researchparks.org/index.php/IJOT/article/view/357</url>
+		<authors>
+			<author>Yagyanath Rimal | Sakuntala Pageni</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>34</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Don't ask too much from data literacy.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jci/jci12.html#Kayser-Bril16</url>
+		<authors>
+			<author>Nicolas Kayser-Bril</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>35</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<label>Searching for critical dimensions in data literacy.</label>
+		<url>http://dblp.uni-trier.de/db/journals/ires/ires24.html#SpiranecKG19</url>
+		<authors>
+			<author>Sonja Spiranec</author>
+		</authors>
+			<author>Denis Kos</author>
+		</authors>
+			<author>Michael George</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>36</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<publisher>IEEE Computer Society</publisher>
+		<label>Navigating Health Literacy Using Interactive Data Visualisation.</label>
+		<url>http://dblp.uni-trier.de/db/conf/bibe/bibe2016.html#LiuZWRK16</url>
+		<authors>
+			<author>Enjie Liu</author>
+		</authors>
+			<author>Youbing Zhao</author>
+		</authors>
+			<author>Hui Wei</author>
+		</authors>
+			<author>Stefanos Roumeliotis</author>
+		</authors>
+			<author>Eleni Kaldoudi</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>37</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<label>Research data management and research data literacy in Slovenian science.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jd/jd75.html#VilarZ18</url>
+		<authors>
+			<author>Polona Vilar</author>
+		</authors>
+			<author>Vlasta Zabukovec</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>38</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>Springer</publisher>
+		<label>Data Literacy and Research Data Management: The Case at ULSIT.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ecil/ecil2018.html#TodorovaKT18</url>
+		<authors>
+			<author>Tania Todorova</author>
+		</authors>
+			<author>Rositza Krasteva</author>
+		</authors>
+			<author>Elisaveta Tsvetkova</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>39</id>
+		<type>Publication</type>
+		<year>2013</year>
+		<publisher>IASSIST</publisher>
+		<label>Interdisciplinarity: Ways to Improve Data and Statistical Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/conf/iassist/iassist2013.html#Bonifacio13</url>
+		<authors>
+			<author>Flavio Bonifacio</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>40</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>ACM</publisher>
+		<label>Developing a theoretically founded data literacy competency model.</label>
+		<url>http://dblp.uni-trier.de/db/conf/wipsce/wipsce2018.html#0001R18</url>
+		<authors>
+			<author>Andreas Grillenberger</author>
+		</authors>
+			<author>Ralf Romeike</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>41</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<publisher>Alliance of Digital Humanities Organizations (ADHO)</publisher>
+		<label>Audiovisual Data And Digital Scholarship: Towards Multimodal Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/conf/dihu/dh2016.html#KleppeSHO16</url>
+		<authors>
+			<author>Martijn Kleppe</author>
+		</authors>
+			<author>Stef Scagliola</author>
+		</authors>
+			<author>Clara Henderson</author>
+		</authors>
+			<author>Johan Oomen</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>42</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Creating an Understanding of Data Literacy for a Data-driven Society.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jci/jci12.html#WolffGMRK16</url>
+		<authors>
+			<author>Annika Wolff</author>
+		</authors>
+			<author>Daniel Gooch</author>
+		</authors>
+			<author>Jose J. Cavero Montaner</author>
+		</authors>
+			<author>Umar Rashid</author>
+		</authors>
+			<author>Gerd Kortuem</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>43</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<publisher>Springer</publisher>
+		<label>Data Literacy and Research Data Management: The Croatian State of Affairs.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ecil/ecil2017.html#SpiranecK17</url>
+		<authors>
+			<author>Sonja Spiranec</author>
+		</authors>
+			<author>Denis Kos</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>44</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<publisher>ACM</publisher>
+		<label>Data and Information Literacy Education: Methods, Models, and Challenges.</label>
+		<url>http://dblp.uni-trier.de/db/conf/jcdl/jcdl2020.html#HuangWKL20</url>
+		<authors>
+			<author>Ruhua Huang</author>
+		</authors>
+			<author>Dan Wu</author>
+		</authors>
+			<author>Jeonghyun Kim</author>
+		</authors>
+			<author>Billy Tak Hoi Leung</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>45</id>
+		<type>Publication</type>
+		<year>2015</year>
+		<label>Data literacy: in search of a name and identity.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jd/jd71.html#Koltay15</url>
+		<authors>
+			<author>Tibor Koltay</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>46</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<publisher>IEEE</publisher>
+		<label>Introduction of Data Literacy in the Undergraduate Engineering Curriculum.</label>
+		<url>http://dblp.uni-trier.de/db/conf/educon/educon2020.html#GieseWBA20</url>
+		<authors>
+			<author>Tim Giese</author>
+		</authors>
+			<author>Martin Wende</author>
+		</authors>
+			<author>Serdar Bulut</author>
+		</authors>
+			<author>Reiner Anderl</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>47</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<publisher>ACM</publisher>
+		<label>Data Everyday: Data Literacy Practices in a Division I College Sports Context.</label>
+		<url>http://dblp.uni-trier.de/db/conf/chi/chi2020.html#CleggGBB20</url>
+		<authors>
+			<author>Tamara L. Clegg</author>
+		</authors>
+			<author>Daniel M. Greene</author>
+		</authors>
+			<author>Nate Beard</author>
+		</authors>
+			<author>Jasmine Brunson</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>48</id>
+		<type>Publication</type>
+		<year>2012</year>
+		<label>Dealing with Data: A Case Study on Information and Data Management Literacy</label>
+		<url>http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.1001339</url>
+		<authors>
+			<author>Melissa A. Haendel</author>
+		</authors>
+			<author>Nicole A. Vasilevsky</author>
+		</authors>
+			<author>Jacqueline A. Wirz</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>49</id>
+		<type>Publication</type>
+		<year>2015</year>
+		<publisher>Wiley</publisher>
+		<label>Data informed learning: A next phase data literacy framework for higher education.</label>
+		<url>http://dblp.uni-trier.de/db/conf/asist/asist2015.html#MaybeeZ15</url>
+		<authors>
+			<author>Clarence Maybee</author>
+		</authors>
+			<author>Lisa Zilinski</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>50</id>
+		<type>Publication</type>
+		<year>2021</year>
+		<publisher>Emerald Publishing Limited</publisher>
+		<label>Data literacy and management of research data -- a prerequisite for the sharing of research data</label>
+		<url>https://doi.org/10.1108/AJIM-04-2020-0110</url>
+		<authors>
+			<author>Palsdottir Agusta</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>51</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Urban Data in the primary classroom: bringing data literacy to the UK curriculum.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jci/jci12.html#WolffMK16</url>
+		<authors>
+			<author>Annika Wolff</author>
+		</authors>
+			<author>Jose J. Cavero Montaner</author>
+		</authors>
+			<author>Gerd Kortuem</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>52</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>DataBasic: Design Principles, Tools and Activities for Data Literacy Learners.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jci/jci12.html#DIgnazioB16</url>
+		<authors>
+			<author>Catherine D'Ignazio</author>
+		</authors>
+			<author>Rahul Bhargava</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>53</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<label>Critically engaging with data visualization through an information literacy framework.</label>
+		<url>http://dblp.uni-trier.de/db/journals/dhq/dhq12.html#Braun18</url>
+		<authors>
+			<author>Steven Braun</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>54</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>Springer</publisher>
+		<label>Research Data Literacy Perception and Practices in the Information Environment.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ecil/ecil2018.html#SteinerovaO18</url>
+		<authors>
+			<author>Jela Steinerová</author>
+		</authors>
+			<author>Miriam Ondrisová</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>55</id>
+		<type>Publication</type>
+		<year>2014</year>
+		<label>Interfacing data destinations and visualizations: A history of database literacy.</label>
+		<url>http://dblp.uni-trier.de/db/journals/nms/nms16.html#Mukherjee14</url>
+		<authors>
+			<author>Rahul Mukherjee</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>56</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<label>Creative Data Literacy: A Constructionist Approach to Teaching Information Visualization.</label>
+		<url>http://dblp.uni-trier.de/db/journals/dhq/dhq12.html#DIgnazioB18</url>
+		<authors>
+			<author>Catherine D'Ignazio</author>
+		</authors>
+			<author>Rahul Bhargava</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>57</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<publisher>ACM</publisher>
+		<label>Workshops as Boundary Objects for Data Infrastructure Literacy and Design.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ACMdis/ACMdis2019.html#PeerD19</url>
+		<authors>
+			<author>Firaz Peer</author>
+		</authors>
+			<author>Carl DiSalvo</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>58</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<label>Research on college students' information literacy based on big data.</label>
+		<url>http://dblp.uni-trier.de/db/journals/cluster/cluster22.html#Ying19</url>
+		<authors>
+			<author>Yao Ying</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>59</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Data Literacy projects in Canada: Field notes from the Open Data Institute, Toronto node.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jci/jci12.html#ArgastZ16</url>
+		<authors>
+			<author>Andi Argast</author>
+		</authors>
+			<author>Lydia Zvyagintseva</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>60</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>CEUR-WS.org</publisher>
+		<label>Ceci n'est pas la data: Towards a Notion of Interaction Literacy for Data Visualization.</label>
+		<url>http://dblp.uni-trier.de/db/conf/avi/visbia2018.html#Bach18</url>
+		<authors>
+			<author>Benjamin Bach</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>61</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<publisher>Springer</publisher>
+		<label>Data Literacy and Research Data Management in Two Top Universities in Poland. Raising Awareness.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ecil/ecil2017.html#WiorogorskaLR17</url>
+		<authors>
+			<author>Zuzanna Wiorogórska</author>
+		</authors>
+			<author>Jedrzej Lesniewski</author>
+		</authors>
+			<author>Ewa A. Rozkosz</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>62</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>ScholarSpace / AIS Electronic Library (AISeL)</publisher>
+		<label>Youth Data Literacy: Teen Perspectives on Data Created with Social Media and Mobile Devices.</label>
+		<url>http://dblp.uni-trier.de/db/conf/hicss/hicss2018.html#AckerB18</url>
+		<authors>
+			<author>Amelia Acker</author>
+		</authors>
+			<author>Leanne Bowler</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>63</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<label>Exploring design principles for data literacy activities to support children's inquiries from complex data.</label>
+		<url>http://dblp.uni-trier.de/db/journals/ijmms/ijmms129.html#WolffWP19</url>
+		<authors>
+			<author>Annika Wolff</author>
+		</authors>
+			<author>Michel Wermelinger</author>
+		</authors>
+			<author>Marian Petre</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>64</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<publisher>IEEE Computer Society</publisher>
+		<label>Integrating data information literacy into a service-learning engineering design course.</label>
+		<url>http://dblp.uni-trier.de/db/conf/fie/fie2017.html#PhillipsJ17</url>
+		<authors>
+			<author>Margaret Phillips</author>
+		</authors>
+			<author>Mohammad Reza Jahanshahi</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>65</id>
+		<type>Publication</type>
+		<year>2010</year>
+		<label>The Central Role of Metadata in a Science Data Literacy Course</label>
+		<url></url>
+		<authors>
+			<author>Jian Qin</author>
+		</authors>
+			<author>John D’Ignazioa</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>66</id>
+		<type>Publication</type>
+		<year>2011</year>
+		<publisher>IEEE Computer Society</publisher>
+		<label>Global and Local Spatial Data Mining on Literacy Rates of Bangladesh.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ACISicis/ACISicis2011.html#RahmanKZK11</url>
+		<authors>
+			<author>Rashedur M. Rahman</author>
+		</authors>
+			<author>Mridul Khan</author>
+		</authors>
+			<author>A. K. M. Zahiduzzaman</author>
+		</authors>
+			<author>Nahyan Kashem</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>67</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>Springer</publisher>
+		<label>Data Visualization Literacy and Visualization Biases: Cases for Merging Parallel Threads.</label>
+		<url>http://dblp.uni-trier.de/db/books/collections/E2018.html#MansoorH18</url>
+		<authors>
+			<author>Hamid Mansoor</author>
+		</authors>
+			<author>Lane Harrison</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>68</id>
+		<type>Publication</type>
+		<year>2012</year>
+		<publisher>IASSIST</publisher>
+		<label>Workshop: Online Data Tools for Curricular Use: Raising the Bar on Data Literacy for Undergraduates.</label>
+		<url>http://dblp.uni-trier.de/db/conf/iassist/iassist2012.html#LackieBC12</url>
+		<authors>
+			<author>Paula Lackie</author>
+		</authors>
+			<author>Adrienne Brennecke</author>
+		</authors>
+			<author>Chiu Chuang</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>69</id>
+		<type>Publication</type>
+		<year>2013</year>
+		<label>Developing an Approach for Data Management Education: A Report from the Data Information Literacy Project.</label>
+		<url>http://dblp.uni-trier.de/db/journals/ijdc/ijdc8.html#CarlsonJWN13</url>
+		<authors>
+			<author>Jake Carlson</author>
+		</authors>
+			<author>Lisa R. Johnston</author>
+		</authors>
+			<author>Brian Westra</author>
+		</authors>
+			<author>Mason Nichols</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>70</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<publisher>Springer</publisher>
+		<label>Data Literacy, Collaboration and Sharing of Research Data Among Academics at the University of Iceland.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ecil/ecil2017.html#Palsdottir17</url>
+		<authors>
+			<author>Ágústa Pálsdóttir</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>71</id>
+		<type>Publication</type>
+		<year>2010</year>
+		<label>Lessons learned from a two-year experience in science data literacy education</label>
+		<url></url>
+		<authors>
+			<author>Jian Qin</author>
+		</authors>
+			<author>John D'Ignazio</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>72</id>
+		<type>Publication</type>
+		<year>2011</year>
+		<label>Determining Data Information Literacy Needs: A Study of Students and Research Faculty</label>
+		<url></url>
+		<authors>
+			<author>Jacob Carlson</author>
+		</authors>
+			<author>Michael Fosmire</author>
+		</authors>
+			<author>C.C. Miller</author>
+		</authors>
+			<author>Megan Sapp Nelson</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>73</id>
+		<type>Publication</type>
+		<year>2010</year>
+		<label>Lessons learned from a two-year experience in science data literacy education</label>
+		<url>http://docs.lib.purdue.edu/iatul2010/conf/day2/5</url>
+		<authors>
+			<author>John D'Ignazio</author>
+		</authors>
+			<author>Jian Qin</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>74</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<label>Data-driven maternal health literacy promotion and a postscript on its implications.</label>
+		<url>http://dblp.uni-trier.de/db/journals/isu/isu37.html#SmithC17</url>
+		<authors>
+			<author>Sandra A. Smith</author>
+		</authors>
+			<author>Lauren N. Carroll</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>75</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Academic Librarians in Data Information Literacy Instruction: A Case Study in Meteorology.</label>
+		<url>http://dblp.uni-trier.de/db/journals/crl/crl77.html#FrankP16</url>
+		<authors>
+			<author>Emily P. Frank</author>
+		</authors>
+			<author>Nils Pharo</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>76</id>
+		<type>Publication</type>
+		<year>2014</year>
+		<publisher>BCS</publisher>
+		<label>Visualisations of Data from the Literacy Tablet Reading Project in Rural Ethiopia.</label>
+		<url>http://dblp.uni-trier.de/db/conf/eva/eva2014.html#ChangTB14</url>
+		<authors>
+			<author>Angela Chang</author>
+		</authors>
+			<author>Lidet Tilahun</author>
+		</authors>
+			<author>Cynthia Breazeal</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>77</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>ScholarSpace / AIS Electronic Library (AISeL)</publisher>
+		<label>Doing Good with Data: Development of a Maturity Model for Data Literacy in Non-governmental Organizations.</label>
+		<url>http://dblp.uni-trier.de/db/conf/hicss/hicss2018.html#SternkopfM18</url>
+		<authors>
+			<author>Helena Sternkopf</author>
+		</authors>
+			<author>Roland M. Müller</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>78</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Data Literacy - What is it and how can we make it happen?</label>
+		<url>http://dblp.uni-trier.de/db/journals/jci/jci12.html#FrankWAT16</url>
+		<authors>
+			<author>Mark Frank</author>
+		</authors>
+			<author>Johanna Walker</author>
+		</authors>
+			<author>Judie Attard</author>
+		</authors>
+			<author>Alan Tygel</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>79</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<publisher>Springer</publisher>
+		<label>Training Trainers for Research Data Literacy: A Content- and Method-Oriented Approach.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ecil/ecil2017.html#Schneider17</url>
+		<authors>
+			<author>René Schneider</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>80</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>Association for Information Systems</publisher>
+		<label>Digital Literacy and Self-Regulated Learning: Testing Reciprocal Relationships with Longitudinal Data.</label>
+		<url>http://dblp.uni-trier.de/db/conf/amcis/amcis2018.html#PereraG18</url>
+		<authors>
+			<author>Muthupoltotage Udayangi Perera</author>
+		</authors>
+			<author>Lesley A. Gardner</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>81</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<publisher>CEUR-WS.org</publisher>
+		<label>Data Literacy and Use for Learning When Using Learning Analytics for Learners.</label>
+		<url>http://dblp.uni-trier.de/db/conf/lak/lal2016.html#WassonHN16</url>
+		<authors>
+			<author>Barbara Wasson</author>
+		</authors>
+			<author>Cecilie Hansen</author>
+		</authors>
+			<author>Grete Netteland</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>82</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<publisher>ACM</publisher>
+		<label>The road to finding interesting contexts for teaching data literacy at school.</label>
+		<url>http://dblp.uni-trier.de/db/conf/wipsce/wipsce2020.html#Napierala20</url>
+		<authors>
+			<author>Stephan Napierala</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>83</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<publisher>SciTePress</publisher>
+		<label>Mining and Linguistically Interpreting Data from Questionnaires - Influence of Financial Literacy to Behaviour.</label>
+		<url>http://dblp.uni-trier.de/db/conf/data/data2017.html#HudecB17</url>
+		<authors>
+			<author>Miroslav Hudec</author>
+		</authors>
+			<author>Zuzana Brokesová</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>84</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Graphical Perception of Value Distributions: An Evaluation of Non-Expert Viewers' Data Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jci/jci12.html#ZubiagaN16</url>
+		<authors>
+			<author>Arkaitz Zubiaga</author>
+		</authors>
+			<author>Brian Mac Namee</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>85</id>
+		<type>Publication</type>
+		<year>2013</year>
+		<label>Using assignment data to analyse a blended information literacy intervention: A quantitative approach.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jolis/jolis45.html#WaltonH13</url>
+		<authors>
+			<author>Geoff Walton</author>
+		</authors>
+			<author>Mark Hepworth</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>86</id>
+		<type>Publication</type>
+		<year>2004</year>
+		<publisher>IASSIST</publisher>
+		<label>The Challenges of Integrating Data Literacy into the Curriculum in an Undergraduate Institution.</label>
+		<url>http://dblp.uni-trier.de/db/conf/iassist/iassist2004.html#Hunt04</url>
+		<authors>
+			<author>Karen Hunt</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>87</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<publisher>Springer</publisher>
+		<label>When Personal Data Becomes Open Data: An Exploration of Lifelogging, User Privacy, and Implications for Privacy Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/conf/icadl/icadl2016.html#PingoN16</url>
+		<authors>
+			<author>Zablon Pingo</author>
+		</authors>
+			<author>Bhuva Narayan</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>88</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<publisher>Springer</publisher>
+		<label>Risk Assessment for Privacy Protection of Information Literacy Beginners in Big Data Era.</label>
+		<url>http://dblp.uni-trier.de/db/conf/nbis/nbis2017.html#TanimotoTISSK17</url>
+		<authors>
+			<author>Shigeaki Tanimoto</author>
+		</authors>
+			<author>Shun Totsuka</author>
+		</authors>
+			<author>Motoi Iwashita</author>
+		</authors>
+			<author>Yoshiaki Seki</author>
+		</authors>
+			<author>Hiroyuki Sato</author>
+		</authors>
+			<author>Atsushi Kanai</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>89</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Contributions of Paulo Freire for a Critical Data Literacy: a Popular Education Approach.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jci/jci12.html#TygelK16</url>
+		<authors>
+			<author>Alan Freihof Tygel</author>
+		</authors>
+			<author>Rosana Kirsch</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>90</id>
+		<type>Publication</type>
+		<year>2015</year>
+		<publisher>Verlag Werner Hülsbusch</publisher>
+		<label>Research Data Management and Information Literacy - New Developments at New Zealand University Libraries.</label>
+		<url>http://dblp.uni-trier.de/db/conf/isiwi/isiwi2015.html#Steiner15</url>
+		<authors>
+			<author>Katrin Steiner</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>91</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<publisher>Gesellschaft für Informatik e.V.</publisher>
+		<label>Teaching Machine Learning and Data Literacy to Students of Logistics using Jupyter Notebooks.</label>
+		<url>http://dblp.uni-trier.de/db/conf/delfi/delfi2020.html#KastnerFL20</url>
+		<authors>
+			<author>Marvin Kastner</author>
+		</authors>
+			<author>Janna Franzkeit</author>
+		</authors>
+			<author>Anna Lainé</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>92</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<label>Integrating Visualization Literacy into Computer Graphics Education Using the Example of Dear Data.</label>
+		<url>http://dblp.uni-trier.de/db/journals/corr/corr1907.html#abs-1907-04730</url>
+		<authors>
+			<author>Andrey Krekhov</author>
+		</authors>
+			<author>Michael Michalski</author>
+		</authors>
+			<author>Jens H. Krüger</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>93</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Got Game? A Choice-Based Learning Assessment of Data Literacy and Visualization Skills.</label>
+		<url>http://dblp.uni-trier.de/db/journals/tkl/tkl21.html#ChinBS16</url>
+		<authors>
+			<author>Doris B. Chin</author>
+		</authors>
+			<author>Kristen Pilner Blair</author>
+		</authors>
+			<author>Daniel L. Schwartz</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>94</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<publisher>Springer</publisher>
+		<label>Mining and Linguistically Interpreting Summaries from Surveyed Data Related to Financial Literacy and Behaviour.</label>
+		<url>http://dblp.uni-trier.de/db/conf/data/data2017s.html#HudecB17a</url>
+		<authors>
+			<author>Miroslav Hudec</author>
+		</authors>
+			<author>Zuzana Brokesová</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>95</id>
+		<type>Publication</type>
+		<year>2004</year>
+		<publisher>IASSIST</publisher>
+		<label>Understanding and Using Data: A Discussion of the Jargon and Trends in "Quantitative Literacy".</label>
+		<url>http://dblp.uni-trier.de/db/conf/iassist/iassist2004.html#Lackie04</url>
+		<authors>
+			<author>Paula Lackie</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>96</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<publisher>Springer Science and Business Media LLC</publisher>
+		<label>Teaching analytics, value and tools for teacher data literacy: a systematic and tripartite approach</label>
+		<url>https://doi.org/10.1186%2Fs41239-020-00201-6</url>
+		<authors>
+			<author>Ifeanyi Glory Ndukwe</author>
+		</authors>
+			<author>Ben Kei Daniel</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>97</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<label>Von Datenmanagement zu Data Literacy: Informatikdidaktische Aufarbeitung des Gegenstandsbereichs Daten für den allgemeinbildenden Schulunterricht.</label>
+		<url></url>
+		<authors>
+			<author>Andreas Grillenberger</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>98</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<publisher>Hochschulforum Digitalisierung</publisher>
+		<label>Vorstudie Hochschulübergreifende Konzepte zum Erwerb von 21st century skills am Beispiel von Data Literacy</label>
+		<url>https://hochschulforumdigitalisierung.de/sites/default/files/dateien/HFD_AP_Nr_43_Konzepte_zum_Erwerb_von_Data%20Literacy_WEB.pdf</url>
+		<authors>
+			<author>Andreas Grillenberger</author>
+		</authors>
+			<author>Ralf Romeike</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>99</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<publisher>Springer</publisher>
+		<label>Data Literacy Among Charles University PhD Students: Are They Prepared for Their Research Careers?</label>
+		<url>http://dblp.uni-trier.de/db/conf/ecil/ecil2017.html#DrobikovaJS17</url>
+		<authors>
+			<author>Barbora Drobíková</author>
+		</authors>
+			<author>Adéla Jarolímková</author>
+		</authors>
+			<author>Martin Soucek</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>100</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Data Literacy defined pro populo: To read this article, please provide a little information.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jci/jci12.html#Crusoe16</url>
+		<authors>
+			<author>David Crusoe</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>101</id>
+		<type>Publication</type>
+		<year>2021</year>
+		<publisher>Springer Science and Business Media LLC</publisher>
+		<label>Towards an educational data literacy framework: enhancing the profiles of instructional designers and e-tutors of online and blended courses with new competences</label>
+		<url>https://doi.org/10.1186%2Fs40561-021-00163-w</url>
+		<authors>
+			<author>Zacharoula Papamitsiou</author>
+		</authors>
+			<author>Michail E. Filippakis</author>
+		</authors>
+			<author>Marilena Poulou</author>
+		</authors>
+			<author>Demetrios Sampson</author>
+		</authors>
+			<author>Dirk Ifenthaler</author>
+		</authors>
+			<author>Michail Giannakos</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>102</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Investigating aspects of data visualization literacy using 20 information visualizations and 273 science museum visitors.</label>
+		<url>http://dblp.uni-trier.de/db/journals/ivs/ivs15.html#BornerMBH16</url>
+		<authors>
+			<author>Katy Börner</author>
+		</authors>
+			<author>Adam Maltese</author>
+		</authors>
+			<author>Russell Nelson Balliet</author>
+		</authors>
+			<author>Joe Heimlich</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>103</id>
+		<type>Publication</type>
+		<year>2015</year>
+		<label>Using empirical data to refine a model for information literacy instruction for elementary school students.</label>
+		<url>http://dblp.uni-trier.de/db/journals/ires/ires20.html#Nesset15</url>
+		<authors>
+			<author>Valerie Nesset</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>104</id>
+		<type>Publication</type>
+		<year>2009</year>
+		<publisher>IEEE Computer Society</publisher>
+		<label>Exploring the Relationship Between Parental Information Literacy and Regulating Rules in Family by Data Mining.</label>
+		<url>http://dblp.uni-trier.de/db/conf/cis/cis2009-2.html#LeeTH09</url>
+		<authors>
+			<author>Yuan-Duen Lee</author>
+		</authors>
+			<author>Wen-Chia Tsai</author>
+		</authors>
+			<author>Sheng-Fei Hsu</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>105</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>CEUR-WS.org</publisher>
+		<label>Data Literacy and Confidence for Building Learning Analytics Solutions in Higher Education Institutions. A Review.</label>
+		<url>http://dblp.uni-trier.de/db/conf/bir/bir2018w.html#Moncada18</url>
+		<authors>
+			<author>Idania Lizbeth Rodriguez Moncada</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>106</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<publisher>AMIA</publisher>
+		<label>DSL-TEACH: Data Science Literacy Training to Enhance Approaches for Clinical decision-making in Healthcare.</label>
+		<url>http://dblp.uni-trier.de/db/conf/amia/amia2019.html#ZaimKKZLS19</url>
+		<authors>
+			<author>Samir Rachid Zaim</author>
+		</authors>
+			<author>Ahyoung Amy Kim</author>
+		</authors>
+			<author>Colleen Kenost</author>
+		</authors>
+			<author>Helen Zhang</author>
+		</authors>
+			<author>Yves A. Lussier</author>
+		</authors>
+			<author>Vignesh Subbian</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>107</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>Springer</publisher>
+		<label>Affective, Behavioral, and Cognitive Aspects of Teen Perspectives on Personal Data in Social Media: A Model of Youth Data Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/conf/iconference/iconference2018.html#ChiJAB18</url>
+		<authors>
+			<author>Yu Chi</author>
+		</authors>
+			<author>Wei Jeng</author>
+		</authors>
+			<author>Amelia Acker</author>
+		</authors>
+			<author>Leanne Bowler</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>108</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<publisher>Springer</publisher>
+		<label>Date Literacy as Requirement for China's Library and Information Profession: A Preliminary Research on Recruitment Data.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ecil/ecil2017.html#ZhangLX17</url>
+		<authors>
+			<author>Jing Zhang</author>
+		</authors>
+			<author>Qianli Lin</author>
+		</authors>
+			<author>Peng Xiao</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>109</id>
+		<type>Publication</type>
+		<year>2015</year>
+		<publisher>ACM</publisher>
+		<label>Government transparency in the U.S?: the ethics, functional literacy, and usability of open geographic government data.</label>
+		<url>http://dblp.uni-trier.de/db/conf/sigdoc/sigdoc2015.html#Benjamin15</url>
+		<authors>
+			<author>Clayton Benjamin</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>110</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<label>What's trending in the library cybersphere – Recent conferences and posts focus on data and information literacy</label>
+		<url>http://www.emeraldinsight.com/doi/10.1108/LHTN-06-2017-0040</url>
+		<authors>
+			<author>Adetoun A. Oyelude</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>111</id>
+		<type>Publication</type>
+		<year>2013</year>
+		<publisher>AMIA</publisher>
+		<label>Method for the Development of Data Visualizations for Community Members with Varying Levels of Health Literacy.</label>
+		<url>http://dblp.uni-trier.de/db/conf/amia/amia2013.html#ArciaBBCGLPPVWYKMB13</url>
+		<authors>
+			<author>Adriana Arcia</author>
+		</authors>
+			<author>Michael E. Bales</author>
+		</authors>
+			<author>William Brown III</author>
+		</authors>
+			<author>Manuel Co Jr.</author>
+		</authors>
+			<author>Melinda Gilmore</author>
+		</authors>
+			<author>Young Ji Lee</author>
+		</authors>
+			<author>Chin S. Park</author>
+		</authors>
+			<author>Jennifer E. Prey</author>
+		</authors>
+			<author>Mark Velez</author>
+		</authors>
+			<author>Janet Woollen</author>
+		</authors>
+			<author>Sunmoo Yoon</author>
+		</authors>
+			<author>Rita Kukafka</author>
+		</authors>
+			<author>Jacqueline Merrill</author>
+		</authors>
+			<author>Suzanne Bakken</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>112</id>
+		<type>Publication</type>
+		<year>2014</year>
+		<label>Overcoming time and ethical constraints in the qualitative data collection process: A case of information literacy research.</label>
+		<url>http://dblp.uni-trier.de/db/journals/jolis/jolis46.html#YuAS14</url>
+		<authors>
+			<author>Halida Yu</author>
+		</authors>
+			<author>Abdullah Abrizah</author>
+		</authors>
+			<author>Rohaida Mohd Saat</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>113</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<publisher>ACM</publisher>
+		<label>Online Data Literacy Services during the COVID-19 Epidemic Prevention: Taking Peking University Library as an Example.</label>
+		<url>http://dblp.uni-trier.de/db/conf/jcdl/jcdl2020.html#Wu20</url>
+		<authors>
+			<author>Aizhi Wu</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>114</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<publisher>Springer</publisher>
+		<label>Data Literacy Education Design Based on Needs of Graduate Students in University of Chinese Academy of Sciences.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ecil/ecil2017.html#MingH17</url>
+		<authors>
+			<author>Wu Ming</author>
+		</authors>
+			<author>Hu Hui</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>115</id>
+		<type>Publication</type>
+		<year>2012</year>
+		<publisher>IOS Press</publisher>
+		<label>Evaluating Effects of Public Health Nurse Home Visitng on Health Literacy for Immigrants and Refugees Using Standardized Nursing Terminology Data.</label>
+		<url>http://dblp.uni-trier.de/db/conf/ni/ni2012.html#MonsenARBLKJFM12</url>
+		<authors>
+			<author>Karen A. Monsen</author>
+		</authors>
+			<author>Eunice M. Areba</author>
+		</authors>
+			<author>David M. Radosevich</author>
+		</authors>
+			<author>Joan K. Brandt</author>
+		</authors>
+			<author>Amy B. Lytton</author>
+		</authors>
+			<author>Madeleine J. Kerr</author>
+		</authors>
+			<author>Karen E. Johnson</author>
+		</authors>
+			<author>Oladimeji Farri</author>
+		</authors>
+			<author>Karen S. Martin</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>116</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<label>Effects of an asynchronous online data literacy intervention on pre-service and in-service educators' beliefs, self-efficacy, and practices.</label>
+		<url>http://dblp.uni-trier.de/db/journals/ce/ce136.html#ReevesC19</url>
+		<authors>
+			<author>Todd D. Reeves</author>
+		</authors>
+			<author>Jui-Ling Chiang</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>117</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<publisher>ACM</publisher>
+		<label>Student's Rating of Contexts for Teaching Data Literacy at School regarding the Context Characteristics relation to everyday life and uniqueness.</label>
+		<url>http://dblp.uni-trier.de/db/conf/kolicalling/kolicalling2020.html#NapieralaB20</url>
+		<authors>
+			<author>Stephan Napierala</author>
+		</authors>
+			<author>Torsten Brinda</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>118</id>
+		<type>Publication</type>
+		<year>2013</year>
+		<label>Using primary literature to teach science literacy to introductory biology students</label>
+		<url>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3706167/</url>
+		<authors>
+			<author>J Krontiris-Litowitz</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>119</id>
+		<type>Publication</type>
+		<year>1983</year>
+		<label>Information Literacy vs. Computer Literacy</label>
+		<url>http://eric.ed.gov/ERICWebPortal/Home.portal?_nfpb=true\&#38;_pageLabel=RecordDetails\&#38;ERICExtSearch_SearchValue_0=EJ284227\&#38;ERICExtSearch_SearchType_0=eric_accno\&#38;objectId=0900000b8014bdb4</url>
+		<authors>
+			<author>Forest W. Horton</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>120</id>
+		<type>Publication</type>
+		<year>2003</year>
+		<label>One-way traffic? Connections between literacy practices at home and in the nursery</label>
+		<url></url>
+		<authors>
+			<author>J Marsh</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>121</id>
+		<type>Publication</type>
+		<year>2004</year>
+		<label>Literacy and health outcomes: a systematic review of the literature</label>
+		<url>http://www.ncbi.nlm.nih.gov/pubmed/15610334</url>
+		<authors>
+			<author>Darren A Dewalt</author>
+		</authors>
+			<author>Nancy D Berkman</author>
+		</authors>
+			<author>Stacey Sheridan</author>
+		</authors>
+			<author>Kathleen N Lohr</author>
+		</authors>
+			<author>Michael P Pignone</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>122</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<label>'The story of data' : a socio-technical approach to education for the data librarian role in the CityLIS library school at City, University of London</label>
+		<url>http://openaccess.city.ac.uk/17311/</url>
+		<authors>
+			<author>L. Robinson</author>
+		</authors>
+			<author>D. Bawden</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>123</id>
+		<type>Publication</type>
+		<year>2008</year>
+		<label>Prospective history teachers' information behaviour in lesson planning</label>
+		<url>http://InformationR.net/ir/13-4/paper374.html</url>
+		<authors>
+			<author>M. Tanni</author>
+		</authors>
+			<author>E. Sormunen</author>
+		</authors>
+			<author>A. Syvänen</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>124</id>
+		<type>Publication</type>
+		<year>2021</year>
+		<label>Media and Information Literacy Skills of Senior High School Students of Andres Bonifacio College</label>
+		<url>https://www.ijtsrd.com/humanities-and-the-arts/education/40007/media-and-information-literacy-skills-of-senior-high-school-students-of-andres-bonifacio-college/mark-c-rusiana</url>
+		<authors>
+			<author>Mark C. Rusiana | Leo C. Naparota</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>125</id>
+		<type>Publication</type>
+		<year>2002</year>
+		<publisher>Quorum Books</publisher>
+		<label>Information literacy and workplace performance</label>
+		<url></url>
+		<authors>
+			<author>W. Tom Goad</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>126</id>
+		<type>Publication</type>
+		<year>2007</year>
+		<label>Secondary school teachers' conceptions of student information literacy</label>
+		<url>http://dx.doi.org/10.1177/0961000607083211</url>
+		<authors>
+			<author>Dorothy A. Williams</author>
+		</authors>
+			<author>Caroline Wavell</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>127</id>
+		<type>Publication</type>
+		<year>2015</year>
+		<label>Framework for Information Literacy for Higher Education</label>
+		<url>http://www.ala.org/acrl/standards/ilframework</url>
+		<authors>
+			<author> The Association of College and Research Libraries</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>128</id>
+		<type>Publication</type>
+		<year>2005</year>
+		<label>Survey Measures of Web-Oriented Digital Literacy</label>
+		<url>http://ssc.sagepub.com/content/23/3/371.abstract</url>
+		<authors>
+			<author>Eszter Hargittai</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>129</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<label>A Study on Financial Literacy of Women in Hyderabad City (Telangana)</label>
+		<url>http://www.ijtsrd.com/management/accounting-and-finance/7156/a-study-on-financial-literacy-of-women-in-hyderabad-city-telangana/mr-mohammad-sirajuddin</url>
+		<authors>
+			<author>Mr. Mohammad Sirajuddin Mr. P. Satish Kumar</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>130</id>
+		<type>Publication</type>
+		<year>2002</year>
+		<label>Scientific literacy as collective praxis</label>
+		<url>http://linkseeker.lanl.gov/stanford?genre=article\&\#38;issn=0963-6625\&\#38;date=2002\&\#38;volume=11\&\#38;issue=1\&\#38;spage=33\&\#38;atitle=Scientific\%20literacy\%20as\%20collective\%20praxis\&\#38;aulast=Roth\&\#38;auinit=WM</url>
+		<authors>
+			<author>W. M. Roth</author>
+		</authors>
+			<author>S. Lee</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>131</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<publisher>Pacific University Library</publisher>
+		<label>Centering Graduate Students' Research Projects in Data Management Education: A Pilot Program</label>
+		<url>https://doi.org/10.7710%2F2162-3309.2365</url>
+		<authors>
+			<author>Tina M. Griffin</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>132</id>
+		<type>Publication</type>
+		<year>2012</year>
+		<label>Conceptualizing citizen's digital literacy through everyday Internet use</label>
+		<url></url>
+		<authors>
+			<author>Mei-Mei Wu</author>
+		</authors>
+			<author>Ying-Hsang Liu</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>133</id>
+		<type>Publication</type>
+		<year>2013</year>
+		<publisher>Springer Berlin Heidelberg</publisher>
+		<label>Conceptualizing citizen's digital literacy through everyday Internet use</label>
+		<url></url>
+		<authors>
+			<author>Mei-Mei Wu</author>
+		</authors>
+			<author>Ying-Hsang Liu</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>134</id>
+		<type>Publication</type>
+		<year>2021</year>
+		<label>Cataloging to support information literacy : the IFLA Library Reference Model’s user tasks in the context of the Framework for Information Literacy for Higher Education</label>
+		<url>https://doi.org/10.1080/01639374.2021.1939828</url>
+		<authors>
+			<author>C. Rockelle Strader</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>135</id>
+		<type>Publication</type>
+		<year>2021</year>
+		<label>Comprehensive exploration of digital literacy : embedded with self-regulation and epistemological beliefs</label>
+		<url>https://doi.org/10.1007/s10956-020-09887-9</url>
+		<authors>
+			<author>Mehmet Demirbag</author>
+		</authors>
+			<author>Eralp Bahcivan</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>136</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<publisher>Springer International Publishing</publisher>
+		<label>Open Science and the Research Information Literacy Framework</label>
+		<url></url>
+		<authors>
+			<author>Jela Steinerová</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>137</id>
+		<type>Publication</type>
+		<year>2009</year>
+		<label>Pre-service teacher discourses: Authoring selves through multimodal compositions</label>
+		<url>http://www.digitalcultureandeducation.com/uncategorized/bishop-2009-html/</url>
+		<authors>
+			<author>John Bishop</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>138</id>
+		<type>Publication</type>
+		<year>2021</year>
+		<label>Development of an Instrument to Measure Conceptualizations and Competencies About Conversational Agents on the Example of Smart Speakers</label>
+		<url>https://www.frontiersin.org/article/10.3389/fcomp.2021.685277</url>
+		<authors>
+			<author>Carolin Wienrich</author>
+		</authors>
+			<author>Astrid Carolus</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>139</id>
+		<type>Publication</type>
+		<year>1988</year>
+		<label>Moving Towards Literacy by Making Definitions</label>
+		<url>http://dx.doi.org/10.1093/ijl/1.3.238</url>
+		<authors>
+			<author>Madelyn A. Iris</author>
+		</authors>
+			<author>Bonnie E. Litowitz</author>
+		</authors>
+			<author>Martha W. Evens</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>140</id>
+		<type>Publication</type>
+		<year>2007</year>
+		<label>Data-Driven Collaboration in Two Voices</label>
+		<url></url>
+		<authors>
+			<author>Toni Buzzeo</author>
+		</authors>
+			<author>Stephanie Wilson</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>141</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<publisher>ACM</publisher>
+		<label>Using Google Search Trends to Estimate Global Patterns in Learning</label>
+		<url>https://doi.org/10.1145%2F3386527.3405913</url>
+		<authors>
+			<author>Serhat Arslan</author>
+		</authors>
+			<author>Mo Tiwari</author>
+		</authors>
+			<author>Chris Piech</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>142</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<label>Good for Business: Applying the ACRL Framework Threshold Concepts to Teach a Learner-Centered Business Research Course</label>
+		<url>http://ticker.mcgill.ca/article/view/20</url>
+		<authors>
+			<author>Charissa Odelia Jefferson</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>143</id>
+		<type>Publication</type>
+		<year>2010</year>
+		<label>What does It Look Like, Really? Imagining how Citizens might Effectively, Usefully and Easily Find, Explore, Query and Re-present Open/Linked Data</label>
+		<url></url>
+		<authors>
+			<author> m. c. schraefel</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>144</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<label>A Discourse on Gender Disparity: A Study on Taluks of Belagavi District</label>
+		<url>http://www.ijtsrd.com/humanities-and-the-arts/geography/2437/a-discourse-on-gender-disparity-a-study-on-taluks-of-belagavi-district/manjunatha-n-k</url>
+		<authors>
+			<author>Manjunatha N K Dr. S M Hurakadli</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>145</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<label>Mehr als Bewusstsein für Privatheitsrisiken : eine Rekonzeptualisierung der Online- Privatheitskompetenz als Kombination aus Wissen, Fähig- und Fertigkeiten</label>
+		<url>https://www.nomos-elibrary.de/index.php?doi=10.5771/1615-634X-2018-4-446</url>
+		<authors>
+			<author>Philipp K. Masur</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>146</id>
+		<type>Publication</type>
+		<year>2006</year>
+		<label>Good school libraries : making a difference to learning</label>
+		<url>http://www.ofsted.gov.uk/Ofsted-home/Publications-and-research/Browse-all-by/Education/Leadership/Governance/Good-school-libraries-making-a-difference-to-learning</url>
+		<authors>
+			<author> Ofsted</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>147</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Undergraduates' information literacy competency: A pilot study of assessment tools based on a latent trait model</label>
+		<url>http://www.sciencedirect.com/science/article/pii/S0740818816301141</url>
+		<authors>
+			<author>Maria Pinto</author>
+		</authors>
+			<author>Rosaura Fernandez-Pascual</author>
+		</authors>
+			<author>Susana Puertas</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>148</id>
+		<type>Publication</type>
+		<year>2014</year>
+		<label>Making connections: The nature and occurrence of links in literacy teaching and learning. .</label>
+		<url>http://eds.a.ebscohost.com.libezproxy.open.ac.uk/eds/detail/detail?vid=1&sid=b95ee2d4-0814-4e64-bc21-7c43bcfcf65b@sessionmgr4005&hid=4108&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ==#db=a9h&AN=98651415</url>
+		<authors>
+			<author>Judy Parr</author>
+		</authors>
+			<author>Stuart McNaughton</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>149</id>
+		<type>Publication</type>
+		<year>2010</year>
+		<publisher>CRC Press</publisher>
+		<label>Encyclopedia of library and information sciences</label>
+		<url>http://www.crcpress.com/product/isbn/9780849397127</url>
+	<publication>
+		<id>150</id>
+		<type>Publication</type>
+		<year>2010</year>
+		<publisher>CRC Press</publisher>
+		<label>Encyclopedia of library and information sciences</label>
+		<url>http://www.crcpress.com/product/isbn/9780849397127</url>
+	<publication>
+		<id>151</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<publisher>Facet Publishing</publisher>
+		<label>The data librarian's handbook</label>
+		<url>http://www.facetpublishing.co.uk/title.php?id=300471</url>
+		<authors>
+			<author>Robin Rice</author>
+		</authors>
+			<author>John Southall</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>152</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<label>Skills heterogeneity and immigrant-native wage gap in the European countries</label>
+		<url>http://iises.net/international-journal-of-economic-sciences/publication-detail-6942?download=7</url>
+		<authors>
+			<author>Maryna Tverdostup</author>
+		</authors>
+			<author>Tiiu Paas</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>153</id>
+		<type>Publication</type>
+		<year>2015</year>
+		<label>Information and the gaining of understanding</label>
+		<url>http://jis.sagepub.com/content/early/2015/12/14/0165551515621691</url>
+		<authors>
+			<author>David Bawden</author>
+		</authors>
+			<author>Lyn Robinson</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>154</id>
+		<type>Publication</type>
+		<year>2008</year>
+		<label>Attitudes to taboo phenomenon among YorubaûEnglish bilinguals</label>
+		<url>http://ejournals.ebsco.com/direct.asp?ArticleID=470BBC6339461BC5E125</url>
+		<authors>
+			<author>Dele Adeyanju</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>155</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<publisher>IGI Global</publisher>
+		<label>Navigating fake news, alternative facts, and misinformation in a post-truth world</label>
+		<url></url>
+		<authors>
+			<author>Dalkir Kimiz</author>
+		</authors>
+			<author>Katz Rebecca</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>156</id>
+		<type>Publication</type>
+		<year>2010</year>
+		<label>Mobile literacies & South African teens: Leisure reading, writing, and MXit chatting for teens in Langa and Gugulethu</label>
+		<url>http://m4lit.files.wordpress.com/2010/03/m4lit_mobile_literacies_mwalton_20101.pdf</url>
+		<authors>
+			<author>Marion Walton</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>157</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<label>Impact of Digitalization on the Indian Financial System</label>
+		<url>http://www.ijtsrd.com/management/business-economics/18663/impact-of-digitalization-on-the-indian-financial-system/dr-amardeep-d-jadhav</url>
+		<authors>
+			<author>Dr. Amardeep D. Jadhav</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>158</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Teachers as Producers of Data Analytics: A Case Study of a Teacher-Focused Educational Data Science Program</label>
+		<url>http://patshih.soic.indiana.edu/publications/McCoy-TeacherDataAnalytics-JLA16.pdf</url>
+		<authors>
+			<author>Chase McCoy</author>
+		</authors>
+			<author>Patrick C Shih</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>159</id>
+		<type>Publication</type>
+		<year>1994</year>
+		<publisher>HarperResource</publisher>
+		<label>The Cartoon Guide to Statistics</label>
+		<url>http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20\&amp;path=ASIN/0062731025</url>
+		<authors>
+			<author>Larry Gonick</author>
+		</authors>
+			<author>Woollcott Smith</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>160</id>
+		<type>Publication</type>
+		<year>1994</year>
+		<publisher>HarperPerennial</publisher>
+		<label>The Cartoon Guide to Statistics</label>
+		<url>http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20\&path=ASIN/0062731025</url>
+		<authors>
+			<author>Larry Gonick</author>
+		</authors>
+			<author>Woollcott Smith</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>161</id>
+		<type>Publication</type>
+		<year>2013</year>
+		<publisher>ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering)</publisher>
+		<label>Interpreter-mediated Physician-patient Communication: Opportunities for Multimodal Healthcare Interfaces</label>
+		<url>http://dx.doi.org/10.4108/icst.pervasivehealth.2013.252026</url>
+		<authors>
+			<author>Nadir Weibel</author>
+		</authors>
+			<author>Colleen Emmenegger</author>
+		</authors>
+			<author>Jennifer Lyons</author>
+		</authors>
+			<author>Ram Dixit</author>
+		</authors>
+			<author>Linda L. Hill</author>
+		</authors>
+			<author>James D. Hollan</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>162</id>
+		<type>Publication</type>
+		<year>2021</year>
+		<publisher>Werner Hülsbusch</publisher>
+		<label>Information between data and knowledge : information science and its neighbors from data science to digital humanities ; Proceedings of the 16th International Symposium of Information Science (ISI 2021) ; Regensburg, Germany, 8th–10th March 2021</label>
+		<url>https://epub.uni-regensburg.de/44931/</url>
+	<publication>
+		<id>163</id>
+		<type>Publication</type>
+		<year>2021</year>
+		<label>Impact of Financial Knowledge of Investors Investment Making Decisions</label>
+		<url>https://www.ijtsrd.commanagement/accounting-and-finance/42536/impact-of-financial-knowledge-of-investors-investment-making-decisions/sunil-deshpande</url>
+		<authors>
+			<author>Sunil Deshpande | Dr. Sanjay Patankar</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>164</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Opening up Smart Cities: Citizen-Centric Challenges and Opportunities from GIScience</label>
+		<url>http://www.mdpi.com/2220-9964/5/2/16</url>
+		<authors>
+			<author>Auriol Degbelo</author>
+		</authors>
+			<author>Carlos Granell</author>
+		</authors>
+			<author>Sergio Trilles</author>
+		</authors>
+			<author>Devanjan Bhattacharya</author>
+		</authors>
+			<author>Sven Casteleyn</author>
+		</authors>
+			<author>Christian Kray</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>165</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<publisher>Association of College and Research Libraries</publisher>
+		<label>The sustainable library's cookbook</label>
+		<url></url>
+	<publication>
+		<id>166</id>
+		<type>Publication</type>
+		<year>2021</year>
+		<label>Putting learning back into learning analytics: actions for policy makers, researchers, and practitioners</label>
+		<url>https://doi.org/10.1007/s11423-020-09909-8</url>
+		<authors>
+			<author>Dirk Ifenthaler</author>
+		</authors>
+			<author>David Gibson</author>
+		</authors>
+			<author>Doreen Prasse</author>
+		</authors>
+			<author>Atsushi Shimada</author>
+		</authors>
+			<author>Masanori Yamada</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>167</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>The influence of gender and product design on farmers' preferences for weather-indexed crop insurance</label>
+		<url>http://dx.doi.org/10.1016/j.gloenvcha.2016.03.010</url>
+		<authors>
+			<author>Sonia Akter</author>
+		</authors>
+			<author>Timothy J. Krupnik</author>
+		</authors>
+			<author>Frederick Rossi</author>
+		</authors>
+			<author>Fahmida Khanam</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>168</id>
+		<type>Publication</type>
+		<year>2014</year>
+		<label>The Amazing Library Race: Tracking Student Engagement and Learning Comprehension in Library Orientations</label>
+		<url>http://eprints.rclis.org/28164/</url>
+		<authors>
+			<author>Katherine Boss</author>
+		</authors>
+			<author>Katelyn Angell</author>
+		</authors>
+			<author>Eamon Tewell</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>169</id>
+		<type>Publication</type>
+		<year>2012</year>
+		<label>Translating learning into numbers: A generic framework for learning analytics</label>
+		<url>http://ifets.info/journals/15_3/4.pdf</url>
+		<authors>
+			<author>Wolfgang Greller</author>
+		</authors>
+			<author>Hendrik Drachsler</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>170</id>
+		<type>Publication</type>
+		<year>2012</year>
+		<label>Peer Assignment Review Process for Collaborative E-learning: Is the Student Learning Process Changing?</label>
+		<url>http://ijacsa.thesai.org/</url>
+		<authors>
+			<author>F F Tusubira Henrik Hansson Mats Danielson Evelyn Kigozi Kahiigi Mikko Vesisenaho</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>171</id>
+		<type>Publication</type>
+		<year>2006</year>
+		<publisher>AACE</publisher>
+		<label>Collaborative Inquiry and Participatory Design in High School Science: A Case Study in Technology Development and Application</label>
+		<url>http://www.editlib.org/index.cfm?fuseaction=Reader.ViewAbstract&paper_id=22721</url>
+		<authors>
+			<author>S. Camasta</author>
+		</authors>
+			<author>M. Karulkar</author>
+		</authors>
+			<author>S. Comstock</author>
+		</authors>
+			<author>D. Harnisch</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>172</id>
+		<type>Publication</type>
+		<year>2007</year>
+		<label>Snow White in different guises: Interlingual and intercultural exchanges between grandparents and young children at home in East London</label>
+		<url>http://ecl.sagepub.com/content/7/1/5.abstract</url>
+		<authors>
+			<author>Eve Gregory</author>
+		</authors>
+			<author>Tahera Arju</author>
+		</authors>
+			<author>John Jessel</author>
+		</authors>
+			<author>Charmian Kenner</author>
+		</authors>
+			<author>Mahera Ruby</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>173</id>
+		<type>Publication</type>
+		<year>2008</year>
+		<label>Examining the digital divide in K-12 public schools: Four-year trends for supporting ICT literacy in Florida</label>
+		<url>http://www.sciencedirect.com/science/article/pii/S0360131508000559</url>
+		<authors>
+			<author>Tina N. Hohlfeld</author>
+		</authors>
+			<author>Albert D. Ritzhaupt</author>
+		</authors>
+			<author>Ann E. Barron</author>
+		</authors>
+			<author>Kate Kemker</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>174</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<label>The emerging role of LIS professionals in combating adverse environmental effects. Paper presented at IFLA WLIC 2017 – Wrocław, Poland</label>
+		<url>http://library.ifla.org/id/eprint/1945</url>
+		<authors>
+			<author>Onan Mulumba</author>
+		</authors>
+			<author>Irene Nakazibwe</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>175</id>
+		<type>Publication</type>
+		<year>2011</year>
+		<label>The perception of digital security among digital natives</label>
+		<url>http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=5967248&tag=1</url>
+		<authors>
+			<author>Marjan Krasna</author>
+		</authors>
+			<author>Tomaž Bratina</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>176</id>
+		<type>Publication</type>
+		<year>2011</year>
+		<label>Digital skills of internet natives: Different forms of digital literacy in a random sample of northern Italian high school students.</label>
+		<url>http://nms.sagepub.com/content/13/6/963.abstract</url>
+		<authors>
+			<author>Marco Gui</author>
+		</authors>
+			<author>Gianluca Argentin</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>177</id>
+		<type>Publication</type>
+		<year>2006</year>
+		<label>Massively multiplayer online games (MMOs) in the new media classroom</label>
+		<url>http://www.pgce.soton.ac.uk/ict/NewPGCE/PDFs/Massively%20Multiplayer%20online%20games%20(MMOs)%20in%20the%20new%20media%20classroom.pdf</url>
+		<authors>
+			<author>Aaron Delwiche</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>178</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<publisher>Institute of Electrical and Electronics Engineers Inc.</publisher>
+		<label>Work-in-progress-ARETE-An Interactive Educational System using Augmented Reality</label>
+		<url></url>
+		<authors>
+			<author>Stefano Masneri</author>
+		</authors>
+			<author>Ana Dominguez</author>
+		</authors>
+			<author>Fridolin Wild</author>
+		</authors>
+			<author>Jeroen Pronk</author>
+		</authors>
+			<author>Matthias Heintz</author>
+		</authors>
+			<author>Jennifer Tiede</author>
+		</authors>
+			<author>Adina Nistor</author>
+		</authors>
+			<author>Giuseppe Chiazzese</author>
+		</authors>
+			<author>Eleni Mangina</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>179</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<label>Teachers' perception of Jupyter and R Shiny as digital tools for open
+  education and science</label>
+		<url>http://arxiv.org/abs/2007.11262</url>
+		<authors>
+			<author>Jozef Hanč</author>
+		</authors>
+			<author>Peter Štrauch</author>
+		</authors>
+			<author>Eva Paňková</author>
+		</authors>
+			<author>Martina Hančová</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>180</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<publisher>Copernicus GmbH</publisher>
+		<label>Using R in hydrology: a review of recent developments and future
+directions</label>
+		<url>https://www.hydrol-earth-syst-sci-discuss.net/hess-2019-50/</url>
+		<authors>
+			<author>Louise J. Slater</author>
+		</authors>
+			<author>Guillaume Thirel</author>
+		</authors>
+			<author>Shaun Harrigan</author>
+		</authors>
+			<author>Olivier Delaigue</author>
+		</authors>
+			<author>Alexander Hurley</author>
+		</authors>
+			<author>Abdou Khouakhi</author>
+		</authors>
+			<author>Ilaria Prodoscimi</author>
+		</authors>
+			<author>Claudia Vitolo</author>
+		</authors>
+			<author>Katie Smith</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>181</id>
+		<type>Publication</type>
+		<year>2003</year>
+		<label>Education for the Earth: Schools, science, and the social origins of global environmentalism</label>
+		<url></url>
+		<authors>
+			<author>Gabriel Ignatow</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>182</id>
+		<type>Publication</type>
+		<year>2008</year>
+		<label>Analyzing Genre Exemplars in Preparation for Writing: The Case of an L2 Graduate Student in the ESP Genre-based Instructional Framework of Academic Literacy</label>
+		<url>http://dx.doi.org/10.1093/applin/amm021</url>
+		<authors>
+			<author>An Cheng</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>183</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<label>Advocacy for libraries: A South African perspective: Poster presented at IFLA WLIC 2017, Wrocław, Poland</label>
+		<url>http://library.ifla.org/2013/</url>
+		<authors>
+			<author>Mokgadi Rebecca Senyolo</author>
+		</authors>
+			<author>Harry Matolong</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>184</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<label>Setting the Foundation for Scientific Inquiry and Computational Thinking in Early Childhood using Lego Machines and Mechanism Education Kit</label>
+		<url>http://arxiv.org/abs/1801.06042</url>
+		<authors>
+			<author>Vishnu Agrawal</author>
+		</authors>
+			<author>Ashish Sureka</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>185</id>
+		<type>Publication</type>
+		<year>2015</year>
+		<publisher>Chandos Publishing</publisher>
+		<label>Managing Scientific Information and Research Data</label>
+		<url></url>
+		<authors>
+			<author>Svetla Baykoucheva</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>186</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Teacher readiness for online learning: Scale development and teacher perceptions</label>
+		<url>http://www.sciencedirect.com/science/article/pii/S0360131515300841</url>
+		<authors>
+			<author>Min-Ling Hung</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>187</id>
+		<type>Publication</type>
+		<year>2019</year>
+		<label>Human nature is not a machine : on liberty, attention engineering, and learning analytics</label>
+		<url>https://pennstate.pure.elsevier.com/en/publications/human-nature-is-not-a-machine-on-liberty-attention-engineering-an</url>
+		<authors>
+			<author>Sarah Hartman-Caverly</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>188</id>
+		<type>Publication</type>
+		<year>2001</year>
+		<label>Asking the 'Right' Questions. Identifying Issues in Developing a Technological Solution.</label>
+		<url>http://find.galegroup.com/ips/infomark.do?\&\#38;contentSet=IAC-Documents\&\#38;type=retrieve\&\#38;tabID=T002\&\#38;prodId=IPS\&\#38;docId=A160588962\&\#38;source=gale\&\#38;srcprod=EAIM\&\#38;userGroupName=mlin\_b\_musmsci\&\#38;version=1.0</url>
+		<authors>
+			<author>B. France</author>
+		</authors>
+			<author>J. Davies</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>189</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<label>What Constrains Smallholder Farmers Decisions to Participate and use Agricultural Value Chain Financing in Rwanda The Case of Smallholder Potato Farmers in Musanze and Nyabihu Districts</label>
+		<url>https://www.ijtsrd.com/engineering/agricultural-engineering/38001/what-constrains-smallholder-farmers-decisions-to-participate-and-use-agricultural-value-chain-financing-in-rwanda-the-case-of-smallholder-potato-farmers-in-musanze-and-nyabihu-districts/patrice-mugenzi</url>
+		<authors>
+			<author>Patrice Mugenzi | George Owour | Hillary K. Bett</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>190</id>
+		<type>Publication</type>
+		<year>2012</year>
+		<label>Teacher design of technology for emergent literacy: An explorative feasibility study</label>
+		<url>http://dspace.ou.nl/handle/1820/4110</url>
+		<authors>
+			<author>Susan McKenney</author>
+		</authors>
+			<author>Joke Voogt</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>191</id>
+		<type>Publication</type>
+		<year>2007</year>
+		<label>ICT on the Margins: Lessons for Ugandan Education</label>
+		<url>http://search.ebscohost.com.proxy2.library.uiuc.edu/login.aspx?direct=true&db=eric&AN=EJ763160&site=ehost-live</url>
+		<authors>
+			<author>Harriet Mutonyi</author>
+		</authors>
+			<author>Bonny Norton</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>192</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<label>Role of Information & Communication Technology in Developing the Banking Sector of India</label>
+		<url>http://www.ijtsrd.com/computer-science/data-processing/10710/role-of-information-and-communication-technology-in-developing-the-banking-sector-of-india/smt-paramita-chatterjee</url>
+		<authors>
+			<author>Smt Paramita Chatterjee</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>193</id>
+		<type>Publication</type>
+		<year>2001</year>
+		<label>Functional status of adults with cerebral palsy and implications for treatment of children.</label>
+		<url></url>
+		<authors>
+			<author>M. Bottos</author>
+		</authors>
+			<author>A. Feliciangeli</author>
+		</authors>
+			<author>L. Sciuto</author>
+		</authors>
+			<author>C. Gericke</author>
+		</authors>
+			<author>A. Vianello</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>194</id>
+		<type>Publication</type>
+		<year>2010</year>
+		<label>Information sources and perceived success in corporate finance</label>
+		<url>http://dx.doi.org/10.1002/asi.21387</url>
+		<authors>
+			<author>Isto Huvila</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>195</id>
+		<type>Publication</type>
+		<year>2001</year>
+		<label>Inspecting school libraries and learning resource centres</label>
+		<url></url>
+		<authors>
+			<author> Ofsted</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>196</id>
+		<type>Publication</type>
+		<year>2014</year>
+		<publisher>Springer Netherlands</publisher>
+		<label>Disciplinary differences in the use of English in higher education: reflections on recent language policy developments</label>
+		<url>http://dx.doi.org/10.1007/s10734-013-9660-6</url>
+		<authors>
+			<author>Maria Kuteeva</author>
+		</authors>
+			<author>John Airey</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>197</id>
+		<type>Publication</type>
+		<year>2008</year>
+		<label>Young People and Social Networking Services</label>
+		<url>http://www.digizen.org/socialnetworking/</url>
+		<authors>
+			<author>Childnet International</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>198</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<publisher>University of Texas Press</publisher>
+		<label>Theory development in the information sciences</label>
+		<url></url>
+		<authors>
+			<author>Diane H. Sonnenwald</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>199</id>
+		<type>Publication</type>
+		<year>2001</year>
+		<label>The shifting terminology's of information.</label>
+		<url></url>
+		<authors>
+			<author>David Bawden</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>200</id>
+		<type>Publication</type>
+		<year>2013</year>
+		<label>Greening: Pluses and minuses of Nigerian libraries in promoting environmental sustainability: Paper presented at IFLA WLIC 2013, Singapore</label>
+		<url>http://library.ifla.org/133/</url>
+		<authors>
+			<author>Adetoun Adebisi Oyelude</author>
+		</authors>
+			<author>Adefunke Olanike Alabi</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>201</id>
+		<type>Publication</type>
+		<year>2021</year>
+		<label>Compliance issue of ready-made garments industry in Bangladesh: A case study</label>
+		<url>https://gjeta.com/content/compliance-issue-ready-made-garments-industry-bangladesh-case-study</url>
+		<authors>
+			<author>Bishwajit Das</author>
+		</authors>
+			<author>Padma Kishore Dey</author>
+		</authors>
+			<author>Md. Mehedi Hasan Sumon</author>
+		</authors>
+			<author> Ahmadullah</author>
+		</authors>
+			<author>Amirul Islam</author>
+		</authors>
+			<author>Priyati Mukherjee</author>
+		</authors>
+			<author>Kazi Mumtahin Afroz</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>202</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<label>A Systematic Review of Information Literacy Programs in Higher Education: Effects of Face-to-Face, Online, and Blended Formats on Student Skills and Views</label>
+		<url>https://journals.library.ualberta.ca/eblip/index.php/EBLIP/article/view/29088</url>
+		<authors>
+			<author>Alison Lesley Weightman</author>
+		</authors>
+			<author>Damian J. J. Farnell</author>
+		</authors>
+			<author>Delyth Morris</author>
+		</authors>
+			<author>Heather Strange</author>
+		</authors>
+			<author>Gillian Hallam</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>203</id>
+		<type>Publication</type>
+		<year>2017</year>
+		<publisher>Elsevier</publisher>
+		<label>The influence of access to eReaders, computers and mobile phones on children's book reading frequency</label>
+		<url>https://www.researchgate.net/publication/314162232_The_influence_of_access_to_eReaders_computers_and_mobile_phones_on_children%27s_book_reading_frequency</url>
+		<authors>
+			<author>Margaret K Merga</author>
+		</authors>
+			<author>Saiyidi Mat Roni</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>204</id>
+		<type>Publication</type>
+		<year>2008</year>
+		<label>Numeracy, ratio bias, and denominator neglect in judgments of risk and probability</label>
+		<url>http://dx.doi.org/10.1016/j.lindif.2007.03.011</url>
+		<authors>
+			<author>V. Reyna</author>
+		</authors>
+			<author>C. Brainerd</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>205</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>Universidade Federal do Amazonas (UFAM)</publisher>
+		<label>Classificação automática de sinais visuais da Língua Brasileira de Sinais representados por caracterização espaço-temporal</label>
+		<url>https://tede.ufam.edu.br/handle/tede/6645</url>
+		<authors>
+			<author>Marcelo Chamy Machado</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>206</id>
+		<type>Publication</type>
+		<year>2007</year>
+		<label>Assessing Students' Proficiency in Math and Science</label>
+		<url>http://eric.ed.gov.ezproxy.auckland.ac.nz/ERICWebPortal/search/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ791851&ERICExtSearch_SearchType_0=no&accno=EJ791851</url>
+		<authors>
+			<author>Thomas P. Judd</author>
+		</authors>
+			<author>Bruce Keith</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>207</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<label>A Study on the Medical Service Quality and its Influence upon Level of Patient's Satisfaction with Special Reference to Selected Major Multispeciality Hospitals, Chennai City</label>
+		<url>http://www.ijtsrd.com/management/marketing-management/10846/a-study-on-the-medical-service-quality-and-its-influence-upon-level-of-patient's-satisfaction-with-special-reference-to-selected-major-multispeciality-hospitals-chennai-city/thenmozhi-arukutty</url>
+		<authors>
+			<author>Thenmozhi Arukutty</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>208</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<label>The Empirical Analysis of Curriculum Quality Evaluation Based on Students Evaluation of Teaching</label>
+		<url>https://www.ijtsrd.com/computer-science/other/38156/the-empirical-analysis-of-curriculum-quality-evaluation-based-on-students-evaluation-of-teaching/chen-rong</url>
+		<authors>
+			<author>Chen Rong</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>209</id>
+		<type>Publication</type>
+		<year>2021</year>
+		<label>University of Portsmouth library subject pages: a flexible in-house system for guidance and resource discovery</label>
+		<url>https://doi.org/10.1016/j.acalib.2021.102453</url>
+		<authors>
+			<author>Timothy Collinson</author>
+		</authors>
+			<author>Hannah Porter</author>
+		</authors>
+			<author>Colin K. Work</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>210</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<label>Educational Development of Physically Challenged Persons in India '“ Policies and Challenges</label>
+		<url>http://www.ijtsrd.com/other-scientific-research-area/other/13038/educational-development-of-physically-challenged-persons-in-india-'“-policies-and-challenges/dr-sujoy-kanti-ghoshal</url>
+		<authors>
+			<author>Dr. Sujoy Kanti Ghoshal</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>211</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>University of Sydney, Faculty of Arts and Social Sciences, School of Education and Social Work</publisher>
+		<label>Pedagogy of Wholeness</label>
+		<url>https://ses.library.usyd.edu.au/handle/2123/19595</url>
+		<authors>
+			<author>Ana Lucia Figueiredo Pinto</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>212</id>
+		<type>Publication</type>
+		<year>2000</year>
+		<label>The impact of home computer use on children's activities and development</label>
+		<url></url>
+		<authors>
+			<author>K. Subrahmanyam</author>
+		</authors>
+			<author>R. Kraut</author>
+		</authors>
+			<author>P. Greenfield</author>
+		</authors>
+			<author>E. Gross</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>213</id>
+		<type>Publication</type>
+		<year>2000</year>
+		<label>The impact of home computer use on children's activities and development.</label>
+		<url>http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve\&db=pubmed\&dopt=Abstract\&list_uids=11255703</url>
+		<authors>
+			<author>K. Subrahmanyam</author>
+		</authors>
+			<author>R. E. Kraut</author>
+		</authors>
+			<author>P. M. Greenfield</author>
+		</authors>
+			<author>E. F. Gross</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>214</id>
+		<type>Publication</type>
+		<year>2007</year>
+		<label>ICT on the Margins: Lessons for Ugandan Education</label>
+		<url>http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=25492583&site=ehost-live</url>
+		<authors>
+			<author>Harriet Mutonyi</author>
+		</authors>
+			<author>Bonny Norton</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>215</id>
+		<type>Publication</type>
+		<year>2009</year>
+		<publisher>CEEOL</publisher>
+		<label>Developing Digital, Computational and Social Competencies through Investigative On-Line Activities</label>
+		<url>http://www.ceeol.com/aspx/getdocument.aspx?logid=5&id=55977f70fb8d4406a074a9af880506e8</url>
+		<authors>
+			<author>Zoltan Galik</author>
+		</authors>
+			<author>Ivan Kalas</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>216</id>
+		<type>Publication</type>
+		<year>2009</year>
+		<publisher>CEEOL</publisher>
+		<label>Developing Digital, Computational and Social Competencies through Investigative On-Line Activities</label>
+		<url>http://www.ceeol.com/aspx/getdocument.aspx?logid=5&id=55977f70fb8d4406a074a9af880506e8</url>
+		<authors>
+			<author>Zoltan Galik</author>
+		</authors>
+			<author>Ivan Kalas</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>217</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<label>Use of Digitization in Agriculture Sector</label>
+		<url>http://www.ijtsrd.com/management/business-economics/18664/use-of-digitization-in-agriculture-sector/shivaprasad-b-shiragannavar</url>
+		<authors>
+			<author>Shivaprasad B Shiragannavar</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>218</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<label>Learning of Advanced Mathematics by Chinese Liberal Arts Students A Study of Developing Applied Mathematical Ability</label>
+		<url>https://www.ijtsrd.com/mathemetics/applied-mathematics/31618/learning-of-advanced-mathematics-by-chinese-liberal-arts-students-a-study-of-developing-applied-mathematical-ability/jingli-liu</url>
+		<authors>
+			<author>Jingli Liu | Zhipen Ren</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>219</id>
+		<type>Publication</type>
+		<year>2002</year>
+		<label>Language-specific tuning of visual cortex? Functional properties
+	of the Visual Word Form Area.</label>
+		<url>http://brain.oxfordjournals.org/cgi/reprint/125/5/1054</url>
+		<authors>
+			<author>Laurent Cohen</author>
+		</authors>
+			<author>St�phane Leh�ricy</author>
+		</authors>
+			<author>Florence Chochon</author>
+		</authors>
+			<author>Cathy Lemer</author>
+		</authors>
+			<author>Sophie Rivaud</author>
+		</authors>
+			<author>Stanislas Dehaene</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>220</id>
+		<type>Publication</type>
+		<year>2018</year>
+		<publisher>Centre for the Science of Learning &amp; Technology (SLATE), University of Bergen</publisher>
+		<label>State of the Field Report on Learning Analytics</label>
+		<url>http://bora.uib.no/handle/1956/17740</url>
+		<authors>
+			<author>Kamila Misiejuk</author>
+		</authors>
+			<author>Barbara Wasson</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>221</id>
+		<type>Publication</type>
+		<year>2006</year>
+		<publisher>Blackwell Publishing Ltd</publisher>
+		<label>Mapping literacy spaces in motion: A rhizomatic analysis of a classroom literacy performance</label>
+		<url>http://dx.doi.org/10.1598/RRQ.41.4.2</url>
+		<authors>
+			<author>KEVIN M. LEANDER</author>
+		</authors>
+			<author>DEBORAH WELLS ROWE</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>222</id>
+		<type>Publication</type>
+		<year>2006</year>
+		<publisher>Blackwell Publishing Ltd</publisher>
+		<label>Mapping literacy spaces in motion: A rhizomatic analysis of a classroom literacy performance</label>
+		<url>http://dx.doi.org/10.1598/RRQ.41.4.2</url>
+		<authors>
+			<author>KEVIN M. LEANDER</author>
+		</authors>
+			<author>DEBORAH WELLS ROWE</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>223</id>
+		<type>Publication</type>
+		<year>2016</year>
+		<label>Engineering Faculty Indicate High Levels of Awareness and Use of the Library but Tend to Consult Google and Google Scholar First for Research Resources</label>
+		<url>https://ejournals.library.ualberta.ca/index.php/EBLIP/article/view/27870</url>
+		<authors>
+			<author>Elaine Sullo</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>224</id>
+		<type>Publication</type>
+		<year>2007</year>
+		<publisher>Tampereen yliopisto</publisher>
+		<label>Nuoriso ja tietotekniikka - keskinäiset relaatiot ja niiden mittaaminen</label>
+		<url>http://tampub.uta.fi/handle/10024/67796</url>
+		<authors>
+			<author>Hannu Lahtinen</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>225</id>
+		<type>Publication</type>
+		<year>2020</year>
+		<label>Engaging stakeholders in the learning analytics design process</label>
+		<url>https://opus.lib.uts.edu.au/handle/10453/142525</url>
+		<authors>
+			<author>Carlos Gerardo Prieto Alvarez</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>226</id>
+		<type>Publication</type>
+		<year>1962</year>
+		<publisher>University of Toronto Press</publisher>
+		<label>The Gutenberg Galaxy: The Making of Typographic Man</label>
+		<url>http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20\&amp;path=ASIN/0802060412</url>
+		<authors>
+			<author>Herbert M. Mcluhan</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>227</id>
+		<type>Publication</type>
+		<year>2004</year>
+		<publisher>CD-@ 03B2 beta Press</publisher>
+		<label>Design research in statistics education: on symbolizing and computer tools</label>
+		<url>http://igitur-archive.library.uu.nl/dissertations/2004-0513-153943/UUindex.html</url>
+		<authors>
+			<author>A. Bakker</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>228</id>
+		<type>Publication</type>
+		<year>1999</year>
+		<publisher>Port Elizabeth Technikon</publisher>
+		<label>Developing and stimulating generalisation thinking processes and skills</label>
+		<url>http://www.wcape.school.za/malati/Files/Generalise993.pdf</url>
+		<authors>
+			<author>Marlene Sasman</author>
+		</authors>
+			<author>Alwyn Olivier</author>
+		</authors>
+			<author>Liora Linchevski</author>
+		</authors>
+	</publication>
+	<publication>
+		<id>229</id>
+		<type>Publication</type>
+		<year>2006</year>
+		<publisher>International Technology Education Association</publisher>
+		<label>Development of technological literacy in gifted and talented elementary school students</label>
+		<url></url>
+		<authors>
+			<author>S. M. Holland</author>
+		</authors>
+			<author>D. F. Berlin</author>
+		</authors>
+	</publication>
+</publications>
